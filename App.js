@@ -1,4 +1,3 @@
-JAVASCRPIT:
 const contractAddress = "0xAd499C1C9A64E4EE2f43C00836ebF1337ef9e215";
 const contractABI = [...]; // Pega aquí tu ABI
 const ownerAddress = "0xYOUR_OWNER_ADDRESS_HERE"; // Cambia por la dirección del dueño
